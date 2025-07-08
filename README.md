@@ -17,7 +17,7 @@
 
 `Создал новый шаблон`
 
-!(./img/zabbix2.1.JPG)
+!(./zabbix2.1.JPG)
 
 !(./img/zabbix2.2.JPG)
 
