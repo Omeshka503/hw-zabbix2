@@ -41,9 +41,8 @@
 ![Добавляю шаблоны к хосту](./img/zabbix2.8.JPG)
 
 `Смотрим графики CPU и RAM`
-![Смотрим графики CPU и RAM](./img/zabbix2.9.JPG)
-![Смотрим графики CPU](./img/zabbix2.10.JPG)
-![Смотрим графики RAM](./img/zabbix2..JPG)
+![Смотрим графики CPU](./img/zabbix2.9.JPG)
+![Смотрим графики RAM](./img/zabbix2.10.JPG)
 
 ### Задание 2
 
