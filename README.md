@@ -17,33 +17,33 @@
 
 `Создал новый шаблон`
 
-!(./img/zabbix2.1.JPG)
+![Создал новый шаблон](./img/zabbix2.1.JPG)
 
-!(./img/zabbix2.2.JPG)
+![Создал новый шаблон](./img/zabbix2.2.JPG)
 
 `Создал элемент`
-!(./img/zabbix2.3.JPG)
+![Создал элемент](./img/zabbix2.3.JPG)
 
 `Добавил свой макрос обновлений 5сек и 50сек`
-!(./img/zabbix2.4.JPG)
+![Добавил свой макрос обновлений 5сек и 50сек](./img/zabbix2.4.JPG)
 
 `Создам item для CPU`
-!(./img/zabbix2.5.JPG)
+![Создам item для CPU](./img/zabbix2.5.JPG)
 
 `Создал шаблон для CPU и RAM`
-!(./img/zabbix2.1.JPG)
+![Создал шаблон для CPU и RAM](./img/zabbix2.1.JPG)
 
 `Создал item для CPU и RAM`
-!(./img/zabbix2.6.JPG)
-!(./img/zabbix2.7.JPG)
+![Создал item для CPU и RAM](./img/zabbix2.6.JPG)
+![Создал item для CPU и RAM](./img/zabbix2.7.JPG)
 
 `Добавляю шаблоны к хосту`
-!(./img/zabbix2.8.JPG)
+![Добавляю шаблоны к хосту](./img/zabbix2.8.JPG)
 
 `Смотрим графики CPU и RAM`
-!(./img/zabbix2.9.JPG)
-!(./img/zabbix2.10.JPG)
-!(./img/zabbix2..JPG)
+![Смотрим графики CPU и RAM](./img/zabbix2.9.JPG)
+![Смотрим графики CPU](./img/zabbix2.10.JPG)
+![Смотрим графики RAM](./img/zabbix2..JPG)
 
 ### Задание 2
 
@@ -77,7 +77,7 @@
 #### Решение
 
 `Добавил свой шаблон на два агента`
-!(./img/zabbix2.3.1.JPG)
+![Добавил свой шаблон на два агента](./img/zabbix2.3.1.JPG)
 
 ### Задание 4
 
@@ -92,4 +92,4 @@
 #### Решение
 
 `Внёс свои изменения в дашборд`
-!(./img/zabbix2.4.1.JPG)
+![Внёс свои изменения в дашборд](./img/zabbix2.4.1.JPG)
